@@ -1,0 +1,6 @@
+{
+  "name": "Indore Tools - Photo Ka Size Kam Karo",
+  "description": "Free, lightning-fast client-side image compressor & resizer. Reduce photo size for SSC, UPSC, PAN Card, WhatsApp, and websites without losing quality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
